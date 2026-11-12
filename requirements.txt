@@ -1,0 +1,9 @@
+tensorflow==2.21.0
+numpy==2.1.3
+pandas==2.3.3
+scikit-learn==1.6.1
+scipy
+matplotlib
+shap
+joblib
+firebase-admin
