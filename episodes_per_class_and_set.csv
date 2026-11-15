@@ -1,0 +1,19 @@
+set,class,windows,episodes,rooms,devices
+Train,Good,1619211,24472,23,38
+Train,Moderate,587811,11881,24,39
+Train,Caution,172271,3985,22,38
+Train,Unhealthy,17105,608,16,27
+Train,Very Unhealthy,3625,119,11,20
+Train,Hazardous,4993,75,8,13
+Validation,Good,612412,8912,5,11
+Validation,Moderate,215192,4457,5,11
+Validation,Caution,70053,1831,5,11
+Validation,Unhealthy,6057,319,4,9
+Validation,Very Unhealthy,1261,77,4,7
+Validation,Hazardous,313,24,2,5
+Test,Good,260276,3806,5,6
+Test,Moderate,97325,1991,4,5
+Test,Caution,27614,651,4,5
+Test,Unhealthy,2004,82,4,5
+Test,Very Unhealthy,576,17,4,4
+Test,Hazardous,113,5,3,3
